@@ -3,10 +3,10 @@
 ## References down below
 
 # Desktop
-![Alt text](./preview/desktop.png "desktop")
+![Alt text](./preview/myDesktop.png "desktop")
 
 # Tablet
-![Alt text](./preview/tablet.png "tablet")
+![Alt text](./preview/myTablet.png "tablet")
 
 # Mobile
 ![Alt text](./preview/mobile.png "mobile")
