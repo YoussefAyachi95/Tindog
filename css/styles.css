@@ -1,6 +1,5 @@
-@media screen and (max-width: 768px) {
-    #image_container {
-        width: 500px;
-        transform: rotate(0deg);
+@media only screen and (max-width: 992px) {
+    #image img {
+        transform: rotate(0deg) translate(-10%, -4%) !important;
     }
 }
